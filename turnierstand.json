@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-19T14:00:17.922Z",
+  "exportedAt": "2026-09-19T14:16:48.109Z",
   "title": "Saisonabschluss Turnier",
   "subtitle": "SV Sallach · Familientag",
   "summary": {
     "teams": 14,
     "rounds": 7,
     "fields": 6,
-    "results": 30,
+    "results": 36,
     "matches": 42
   },
   "rounds": [
@@ -530,7 +530,10 @@
             "id": "A3",
             "label": "Lea Britze & Tobias E."
           },
-          "score": null
+          "score": [
+            18,
+            12
+          ]
         },
         {
           "id": "5-A-1",
@@ -543,7 +546,10 @@
             "id": "A2",
             "label": "Isabell W. & Claudia T."
           },
-          "score": null
+          "score": [
+            15,
+            10
+          ]
         },
         {
           "id": "5-A-2",
@@ -556,7 +562,10 @@
             "id": "A7",
             "label": "Julian E. & Thomas H."
           },
-          "score": null
+          "score": [
+            16,
+            8
+          ]
         },
         {
           "id": "5-B-0",
@@ -569,7 +578,10 @@
             "id": "B3",
             "label": "Vincent W. & Johannes W."
           },
-          "score": null
+          "score": [
+            16,
+            15
+          ]
         },
         {
           "id": "5-B-1",
@@ -582,7 +594,10 @@
             "id": "B2",
             "label": "Elias B. & Katrin K."
           },
-          "score": null
+          "score": [
+            6,
+            17
+          ]
         },
         {
           "id": "5-B-2",
@@ -595,7 +610,10 @@
             "id": "B7",
             "label": "Laura S. & Jenny M."
           },
-          "score": null
+          "score": [
+            13,
+            11
+          ]
         }
       ]
     },
